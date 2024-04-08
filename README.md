@@ -1,2 +1,2 @@
-# django_password_generatore
+# django
  practise_problem
